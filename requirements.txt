@@ -1,0 +1,4 @@
+requests
+ImageHash
+fastapi
+uvicorn
